@@ -1,0 +1,11 @@
+{
+  "availability": "PRIVATE",
+  "contextPath": "holamundo",
+  "key": "13723148",
+  "name": "holamundo",
+  "resourcesUrl": "https://bitbucket.org/USER/REPO/raw/master/build",
+  "type": "HOSTED",
+  "imports": [
+    "core/c8yBranding"
+  ]
+}
